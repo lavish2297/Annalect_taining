@@ -1,0 +1,25 @@
+1. How many children does a binary tree have?
+A) 2
+B) any number of children
+C) 0 or 1 or 2
+D) 0 or 1
+2. Who, according to the poet, is better?
+A) human beings
+B) animals
+C) both are equal
+D) none
+3. what is the meaning of “whine”?
+A) a beverage
+B) cry
+C) shout
+D) None
+4. What is the meaning of “placid”?
+A) peaceful
+B) clumsy
+C) greedy
+D) jealousy
+5. Who is not dissatisfied always?
+A) humans
+B) animals
+C) poet
+D) All of the above
